@@ -170,36 +170,15 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 
 ### 🐍 Contribution Snake
 
-This animates once you run its workflow — the image is broken until then, that's expected:
-1. Push this repo to `money-ll/money-ll` on GitHub (repo name **must** match your username exactly)
-2. Go to the **Actions** tab → select **Generate Snake** → click **Run workflow**
-3. Wait ~30 seconds for it to finish — it creates an `output` branch with the SVG
-4. Refresh this README and the animation will appear
+
 
 ![snake](https://raw.githubusercontent.com/money-ll/money-ll/output/github-contribution-grid-snake-dark.svg)
 
 ### 📉 Extended Metrics
-
-An optional, more detailed metrics card (`metrics.yml`) is included but needs one-time setup, since it requires a personal token — GitHub's own automatic token isn't allowed to read account-wide stats:
-
-1. Go to **GitHub Settings → Developer settings → Personal access tokens → Fine-grained tokens** and generate one with read access to your profile (or a classic token with `read:user` and `public_repo` scopes)
-2. In this repo, go to **Settings → Secrets and variables → Actions** and add a secret named `METRICS_TOKEN` with that token as the value
-3. Go to the **Actions** tab → select **Metrics** → **Run workflow**
-4. It will commit a `github-metrics.svg` file to this repo — once that appears, uncomment the line below
-
-```md
-<!-- ![metrics](github-metrics.svg) -->
-```
+![Metrics](github-metrics.svg)
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> _Connect a blog workflow (e.g. [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)) to auto-populate your latest posts here._
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🏅 Certifications
 
