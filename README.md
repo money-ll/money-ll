@@ -88,7 +88,7 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Quiz Royale](https://github.com/money-ll)
+### 🎯 [Quiz Royale](https://github.com/money-ll/Quiz_Royale)
 Real-time, two-player quiz app with AI-assisted question classification and genre matching. Team of 4 — built backend logic for question handling, scoring, and match flow.
 `Node.js` `MongoDB` `WebSockets` `AI`
 
