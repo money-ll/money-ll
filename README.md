@@ -166,11 +166,15 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=money-ll&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/money-ll)
+[![trophy](https://github-trophies.vercel.app/?username=money-ll&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/money-ll)
 
 ### 🐍 Contribution Snake
 
-_Enable the `snake.yml` workflow in Actions, then this animates automatically:_
+This animates once you run its workflow — the image is broken until then, that's expected:
+1. Push this repo to `money-ll/money-ll` on GitHub (repo name **must** match your username exactly)
+2. Go to the **Actions** tab → select **Generate Snake** → click **Run workflow**
+3. Wait ~30 seconds for it to finish — it creates an `output` branch with the SVG
+4. Refresh this README and the animation will appear
 
 ![snake](https://raw.githubusercontent.com/money-ll/money-ll/output/github-contribution-grid-snake-dark.svg)
 
