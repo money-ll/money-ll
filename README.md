@@ -1,6 +1,10 @@
 <div align="center">
 
 <img src="assets/banner.svg" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=535&height=44&lines=I'm%20interested%20in%20making%20backends" alt="Typing headlines" />
+</p>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations"/>
 
