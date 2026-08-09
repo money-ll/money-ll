@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations" alt="Roles" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=10000&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Tagline" />
 </div>
 
 <p>
