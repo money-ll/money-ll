@@ -2,10 +2,8 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations" alt="Roles" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=10000&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Tagline" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations" alt="Roles" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=10000&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Tagline" />
 
 <p>
 <a href="https://www.linkedin.com/in/manilghimire"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -53,9 +51,9 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 | Expected 04/2027 | B.E. Computer Engineering | Himalaya College of Engineering — Kathmandu, Nepal |
 | 08/2022 | Higher Secondary Education, Science | Nidi Secondary School & Indreni Campus — Jhapa, Nepal |
 
-## 💼 Experience
+## 💼 Leadership & Involvement
 
-**Volunteer** · Himalaya College of Engineering — Kathmandu, Nepal *(07/2026 – 07/2026)*
+**Volunteer** · Himalaya College of Engineering — Kathmandu, Nepal *(07/2026)*
 - Organized and coordinated campus events, including leading the **Himalaya Exhibition 2026**
 - Supervised a team of **19 staff members**
 - Supported faculty with classroom management and workshop logistics
@@ -76,6 +74,7 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 </p>
 
 <div align="center">
+
 | Category | Stack |
 |---|---|
 | **Languages** | Python · JavaScript · C/C++ · SQL |
@@ -83,6 +82,7 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 | **Databases** | MongoDB |
 | **AI / ML** | PyTorch · Transformers · OpenCV · NumPy · Scikit-learn |
 | **DevOps / Tools** | Git · GitHub · Docker · Linux · VS Code · Postman |
+
 </div>
 
 ---
@@ -100,34 +100,38 @@ Real-time, two-player quiz app with AI-assisted question classification and genr
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [RAG-Based Chatbot](https://github.com/money-ll)
+### 🤖 RAG-Based Chatbot
 Retrieves relevant context from a document/knowledge base to generate grounded responses. Built the retrieval pipeline (embeddings + vector search) alongside the LLM.
 `Python` `LLMs` `Vector Search`
+*(repo coming soon)*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 [Text-to-Voice & Voice-to-Text Converter](https://github.com/money-ll)
+### 🔁 Text-to-Voice & Voice-to-Text Converter
 Two-way speech app converting text to natural-sounding speech and transcribing spoken audio back into text, integrating synthesis and recognition models.
 `Python` `Speech Synthesis` `ASR`
+*(repo coming soon)*
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼 [Prompt-to-Image Generator](https://github.com/money-ll)
+### 🖼 Prompt-to-Image Generator
 Generates images from natural-language prompts using an AI image-generation model, with a focus on usability and fast prompt iteration.
 `Python` `Diffusion Models`
+*(repo coming soon)*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 [Offline Chatbot](https://github.com/money-ll)
+### 🔌 Offline Chatbot
 Chatbot that runs and responds to queries without an internet connection, using a locally hosted LLM optimized for limited hardware.
 `Python` `Local LLM Inference`
+*(repo coming soon)*
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +144,7 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 </tr>
 </table>
 
-> 💡 Pin these on your GitHub profile (Customize your pins) so they show as live cards above your stats.
+> 💡 Pin these on your GitHub profile (Customize your pins) so they show as live cards above your stats. Swap in the repo links above as soon as each one goes public.
 
 ---
 
@@ -159,7 +163,7 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=money-ll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=money-ll&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=money-ll&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=money-ll&theme=tokyonight&hide_border=true" width="80%"/>
 
@@ -175,15 +179,13 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 
 ### 🐍 Contribution Snake
 
-
-
 ![snake](https://raw.githubusercontent.com/money-ll/money-ll/output/github-contribution-grid-snake-dark.svg)
 
 ### 📉 Extended Metrics
+
 ![Metrics](github-metrics.svg)
 
 ---
-
 
 ## 🏅 Certifications
 
