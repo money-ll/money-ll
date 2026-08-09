@@ -1,12 +1,12 @@
 <div align="center">
 
 <img src="assets/banner.svg" width="100%"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Building+with+Python%2C+Node.js+%26+MongoDB;Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Typing headlines" />
-</p>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations"/>
+<div align="center">
+  <img src="assets/banner.svg" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;AI+%2F+ML+Engineer+in+Training;Computer+Engineering+Student;Building+RAG+%26+OCR+Systems;Open+to+Internships+%26+Collaborations" alt="Roles" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Tagline" />
+</div>
 
 <p>
 <a href="https://www.linkedin.com/in/manilghimire"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
