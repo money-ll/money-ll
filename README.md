@@ -75,6 +75,7 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 <img src="https://skillicons.dev/icons?i=python,js,cpp,fastapi,nodejs,express,mongodb,pytorch,opencv,git,github,linux,vscode,docker,postman&perline=8"/>
 </p>
 
+<p align="center">
 | Category | Stack |
 |---|---|
 | **Languages** | Python · JavaScript · C/C++ · SQL |
@@ -84,6 +85,8 @@ fun_fact: "I enjoy turning complex backend problems into software people actuall
 | **DevOps / Tools** | Git · GitHub · Docker · Linux · VS Code · Postman |
 
 ---
+</p>
+
 
 ## 🚀 Featured Projects
 
