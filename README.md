@@ -144,7 +144,6 @@ Responsive personal site showcasing projects, skills, and experience, built to p
 </tr>
 </table>
 
-> 💡 Pin these on your GitHub profile (Customize your pins) so they show as live cards above your stats. Swap in the repo links above as soon as each one goes public.
 
 ---
 
